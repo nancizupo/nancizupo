@@ -1,16 +1,28 @@
-## Hi there 👋
+# Olá! Eu sou a Nanci Zupo 👋
 
-<!--
-**nancizupo/nancizupo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌱 Desenvolvedora em formação
+Estudando e praticando Desenvolvimento Fullstack:  
+**HTML, CSS, JavaScript, React e Node.js**  
+Apaixonada por **PL/SQL** e construção de soluções eficientes.  
+Atualmente criando projetos para compor meu portfólio 🚀
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tecnologias que estou estudando
+
+- HTML  
+- CSS  
+- JavaScript  
+- React  
+- Node.js  
+- PL/SQL
+
+---
+
+## 📫 Como me encontrar
+
+`linkedin.com/in/nancizupo
+
+---
+
+✨ Obrigada por visitar meu perfil!
