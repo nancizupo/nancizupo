@@ -21,7 +21,7 @@ Atualmente criando projetos para compor meu portfólio 🚀
 
 ## 📫 Como me encontrar
 
-`linkedin.com/in/nancizupo
+`linkedin.com/in/nanci-zupo
 
 ---
 
